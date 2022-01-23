@@ -10,12 +10,16 @@ Colab Notebook: [Unsupervised Learning](notebooks/UnsupervisedLearning.ipynb)
 
 ## Supervised Learning
 
+ 
+
 Colab Notebook: [Supervised Learning Notebook](notebooks/SupervisedLearning.ipynb)
 
 Documentation: [Supervised Learning Documentation](docs/SUPERVISED_DOCUMENTATION.pdf)
 
 ## Natural Language Processing
 
-Colab Notebooks: [NLP Model Notebook](notebooks/NLP_Model.ipynb) and [NLP Model Notebook](notebooks/NLP_Preprocessing_Vectorization.ipynb)
+Where we will try to make models and predictions using Natural Language.
+
+Colab Notebooks: [NLP Model Notebook](notebooks/NLP_Model.ipynb) & [NLP Preprocessing & Vectorization Notebook](notebooks/NLP_Preprocessing_Vectorization.ipynb)
 
 Documentation: [NLP Documentation](docs/NLP_DOCUMENTATION.pdf)
