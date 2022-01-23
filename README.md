@@ -25,9 +25,8 @@ Colab Notebooks: [NLP Model Notebook](notebooks/NLP_Model.ipynb) & [NLP Preproce
 Documentation: [NLP Documentation](docs/NLP_DOCUMENTATION.pdf)
 
 ## Authors:
----
 
 * [María Blanco Gónzalez-Mohíno](https://github.com/MariaBlancoGonzalez/)
 * [José Alberto Seco Sánchez-Camacho](https://github.com/JoseAlbertoSeco/)
-* [Pablo Velasco Crespo](Pablo.Velasco2@alu.uclm.es)
+* [Pablo Velasco Crespo](https://github.com/PabloVelascoCrespo/)
 * [Adrián Ruiz Esteban](https://github.com/)
