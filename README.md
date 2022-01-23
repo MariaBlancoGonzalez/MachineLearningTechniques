@@ -4,8 +4,18 @@
 
 In this repository 3 projects are developed using machine learning techniques. All this projects can be found in the folder **notebooks**
 
-## [Unsupervised Learning](notebooks/UnsupervisedLearning.ipynb)
+## Unsupervised Learning
 
+Colab Notebook: [Unsupervised Learning](notebooks/UnsupervisedLearning.ipynb)
 
 ## Supervised Learning
+
+Colab Notebook: [Supervised Learning Notebook](notebooks/SupervisedLearning.ipynb)
+
+Documentation: [Supervised Learning Documentation](docs/SUPERVISED_DOCUMENTATION.pdf)
+
 ## Natural Language Processing
+
+Colab Notebooks: [NLP Model Notebook](notebooks/SupervisedLearning.ipynb) and [NLP Model Notebook](notebooks/NLP_Preprocessing_Vectorization.ipynb)
+
+Documentation: [Supervised Learning Documentation](docs/NLP_DOCUMENTATION.pdf)
