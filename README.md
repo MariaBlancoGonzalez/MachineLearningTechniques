@@ -16,6 +16,6 @@ Documentation: [Supervised Learning Documentation](docs/SUPERVISED_DOCUMENTATION
 
 ## Natural Language Processing
 
-Colab Notebooks: [NLP Model Notebook](notebooks/SupervisedLearning.ipynb) and [NLP Model Notebook](notebooks/NLP_Preprocessing_Vectorization.ipynb)
+Colab Notebooks: [NLP Model Notebook](notebooks/NLP_Model.ipynb) and [NLP Model Notebook](notebooks/NLP_Preprocessing_Vectorization.ipynb)
 
-Documentation: [Supervised Learning Documentation](docs/NLP_DOCUMENTATION.pdf)
+Documentation: [NLP Documentation](docs/NLP_DOCUMENTATION.pdf)
