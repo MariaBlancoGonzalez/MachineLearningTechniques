@@ -4,6 +4,8 @@
 
 In this repository 3 projects are developed using machine learning techniques. All this projects can be found in the folder **notebooks**
 
-## Unsupervised Learning
+## [Unsupervised Learning](notebooks/UnsupervisedLearning.ipynb)
+
+
 ## Supervised Learning
 ## Natural Language Processing
